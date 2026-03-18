@@ -1,4 +1,7 @@
-## Hi there 👋
+Hi! I'm Sophia Risin, a data science software engineer at burnbot. 
+My background is in astrophysics and computation, and I am currently working on a wide range of projects in the fuels management space.
+You can reach me at [email_link](mailto:sophia.risin@burnbot.com)
+
 
 <!--
 **sbrriver/sbrriver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
