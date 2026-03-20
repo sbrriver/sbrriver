@@ -1,4 +1,5 @@
-Hi! I'm Sophia Risin, a data science software engineer at burnbot. 
+# Hi! I'm Sophia Risin, a data science software engineer at BurnBot ![](https://komarev.com/ghpvc/?username=sbrriver&color=blue&abbreviated=true)
+
 My background is in astrophysics and computation, and I am currently working on a wide range of projects in the fuels management space.
 You can reach me at [email_link](mailto:sophia.risin@burnbot.com)
 
